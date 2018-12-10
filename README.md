@@ -4,21 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 10,2018)
 
 ### Student Name:  
-(First and Last Name)
+(Layton Lewis)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(AJAX and JSON assignment)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ll17b.github.io/lesson8_ajax/) 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+
+1. (how to add a movie dates id when it was published)
+2. (Created a placeholder where the id is:  "popularity")
+3. (learned how use a code to retrieve the poster URL from the HTTP Response message)
